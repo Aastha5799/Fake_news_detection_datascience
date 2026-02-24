@@ -1,0 +1,13 @@
+# Dataset (do not upload)
+train.csv
+
+# Saved ML models
+model.pkl
+tfidf.pkl
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VS Code settings
+.vscode/
